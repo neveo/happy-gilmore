@@ -1,4 +1,4 @@
 happy-gilmore
 =============
 
-Just have some movie fun with Git
+Just having some movie fun with Git at github.
